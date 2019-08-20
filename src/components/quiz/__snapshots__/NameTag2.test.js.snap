@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NameTag2 component renders App 1`] = `
+<div
+  className="NameTag"
+>
+  <ColorSelector
+    backgroundColor=""
+    changeBackgroundColor={[Function]}
+    changeColor={[Function]}
+    color=""
+  />
+  <TextSelector
+    changeText={[Function]}
+    text=""
+  />
+  <Shape
+    backgroundColor=""
+    color=""
+    text=""
+  />
+</div>
+`;

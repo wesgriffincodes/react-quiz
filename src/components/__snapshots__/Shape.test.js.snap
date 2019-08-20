@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shape component renders App 1`] = `
+<Fragment>
+  <input
+    name="background"
+    onChange={[Function]}
+    type="color"
+    value=""
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "",
+        "height": "300px",
+        "width": "200px",
+      }
+    }
+  >
+    <input
+      name="text"
+      onChange={[Function]}
+      type="text"
+      value="useState"
+    />
+    <input
+      name="color"
+      onChange={[Function]}
+      type="color"
+      value=""
+    />
+    <h1
+      style={
+        Object {
+          "color": "",
+        }
+      }
+    >
+      useState
+    </h1>
+  </div>
+</Fragment>
+`;

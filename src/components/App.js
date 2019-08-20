@@ -1,6 +1,15 @@
 import React from 'react';
+import NameTag from './quiz/NameTag2';
+import Short from './shorter/Short';
 
-export default function App() {
-  return <h1>Hello World</h1>;
-}
+const App = () => {
+  return (
+    <>
+      <NameTag />
+      <Short />
+    </>
+  );
+};
+
+export default App;
   
